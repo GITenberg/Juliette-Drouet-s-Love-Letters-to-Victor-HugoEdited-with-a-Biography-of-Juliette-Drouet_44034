@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42531
     wikipedia: https://en.wikipedia.org/wiki/Juliette_Drouet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44034#Juliette-Drouet-s-Love-Letters-to-Victor-HugoEdited-with-a-Biography-of-Juliette-Drouet
 gutenberg_issued: '2013-10-25'
 gutenberg_type: Text
 identifiers:
