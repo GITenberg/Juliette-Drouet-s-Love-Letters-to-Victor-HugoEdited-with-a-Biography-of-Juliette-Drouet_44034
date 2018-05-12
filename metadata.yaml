@@ -1,0 +1,41 @@
+_repo: Juliette-Drouet-s-Love-Letters-to-Victor-HugoEdited-with-a-Biography-of-Juliette-Drouet_44034
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Davidson, Theodora, Lady
+    alias: Davidson, Lady Theodora
+    gutenberg_agent_id: '42533'
+    url: http://www.gutenberg.org/2009/agents/42533
+covers:
+- cover_type: archival
+  image_path: 44034-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Guimbaud, Louis
+    birthdate: 1869
+    gutenberg_agent_id: '42530'
+    url: http://www.gutenberg.org/2009/agents/42530
+  - agent_name: Drouet, Juliette
+    alias: Gauvain, Julienne
+    birthdate: 1806
+    deathdate: 1883
+    gutenberg_agent_id: '42531'
+    url: http://www.gutenberg.org/2009/agents/42531
+    wikipedia: https://en.wikipedia.org/wiki/Juliette_Drouet
+description: ''
+gutenberg_issued: '2013-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Hugo, Victor, 1802-1885'
+- !lcsh 'Drouet, Juliette, 1806-1883'
+title: 'Juliette Drouet''s Love-Letters to Victor Hugo
+
+  Edited with a Biography of Juliette Drouet'
+url: http://www.gutenberg.org/ebooks/44034
